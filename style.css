@@ -5,6 +5,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0px;
+  overflow: hidden;
 }
 
 .obiekt {
@@ -56,4 +57,5 @@ body {
   visibility: hidden;
   color: aliceblue; 
 }
+
 
